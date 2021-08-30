@@ -18,7 +18,7 @@ categories: Publications
 ## Source  
 This paper published in TCAD. To refer this:  
 
-    Hui Chen, Zihao Zhang, Peng Chen, Shien Zhu, Weichen Liu. ``Parallel Multipath Transmission for Burst Traffic Optimization in Point-to-Point NoCs.'' In Proceedings of the Great Lakes Symposium on VLSI 2021(GLSVLSI ’21), June 22–25, 2021, Virtual Event, USA.ACM, New York, NY
+>Hui Chen, Zihao Zhang, Peng Chen, Shien Zhu, Weichen Liu. ``Parallel Multipath Transmission for Burst Traffic Optimization in Point-to-Point NoCs.'' In Proceedings of the Great Lakes Symposium on VLSI 2021(GLSVLSI ’21), June 22–25, 2021, Virtual Event, USA.ACM, New York, NY
 
 ## Abstract 
 

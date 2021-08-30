@@ -1,12 +1,17 @@
 ---
-title: About Me
+title: aboutme
 top: false
-cover: images/cover1.jpg
+cover: false
 toc: true
 mathjax: true
-date: 2021-01-20 16:50:59
-
+date: 2021-01-30 12:45:00
+password:
+summary:
+tags:
+- AboutMe
+categories: AboutMe
 ---
+
 
 
 # Chen Hui

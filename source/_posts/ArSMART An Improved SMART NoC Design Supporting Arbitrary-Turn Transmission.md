@@ -17,7 +17,7 @@ categories: Publications
 ## Source  
 This paper published in TCAD. To refer this:  
 
-    Hui Chen, Peng Chen, Jun Zhou, L. H. K. Duong and Weichen Liu, "ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3091961. 
+>Hui Chen, Peng Chen, Jun Zhou, L. H. K. Duong and Weichen Liu, "ArSMART: An Improved SMART NoC Design Supporting Arbitrary-Turn Transmission," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2021.3091961. 
 
 ## Abstract 
 
