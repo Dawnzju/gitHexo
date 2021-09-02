@@ -20,7 +20,7 @@ Source https://github.com/chxuan/vimplus
 >git clone https://github.com/Dawnzju/vim_dawnzju ~/.vimplus  
 >cd ~/.vimplus  
 >./install.sh //不加sudo  
-
+<!-- more -->
 ## Configuration
 
 - ~/.vimrc为vimplus的默认配置，一般不做修改  

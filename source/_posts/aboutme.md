@@ -1,5 +1,5 @@
 ---
-title: aboutme
+title: About Me
 top: false
 cover: false
 toc: true
