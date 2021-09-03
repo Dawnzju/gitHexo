@@ -13,7 +13,7 @@ tags:
 - ReadMe
 categories: Manual
 ---
-![Illustration of hardware design. (a). Overview ofdata transmission; (b). Router design; (c) Input NI design.](/images/MPT.jpg)
+![Sub-message load balancing illustration. (a) Task graph before and after spliting without load balancing; (b) Task mapping and routing in NoC-basedsystem; (c) Original splitting without spliting; (d) Splitting with temporal load balancing; (e) Splitting with temporal and spatial load balancing.](/images/PMTreadme.jpg)
 
 Source Code link: To be public soon  
 

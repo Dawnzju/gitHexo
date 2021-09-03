@@ -15,7 +15,7 @@ categories: Manual
 ---
 
 
-![ Motivation  examples.  (a).  DAG  modeled  application  and  processing  rate  of  different  PEs;  (b).Computation-aware mapping and SOTA routing; (c). Communication-aware mapping and SOTA routing; (d).Co-optimized mapping and routing.](/images/marco.jpg)
+![The overview of co-optimization framework.](/images/marcoReadme.jpg)
 
 Source Code link: To be public soon  
 

@@ -13,7 +13,7 @@ tags:
 - ReadMe
 categories: Manual
 ---
-![ArSMART NoC Design (a). Overview of ArSMART; (b). Cluster structure; (c). Router design.](/images/arsmart.jpg)
+![Illustration of ArSMART NoC context.](/images/arsmartReadme.jpg)
 
 Source Code link: To be public soon  
 
