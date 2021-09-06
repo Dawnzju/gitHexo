@@ -44,8 +44,7 @@ taskid(str):{"total_needReceive":int(total message need to be received), "input_
 | --smart2D |	GarnetNetwork.py| Enable SMART-2D | Network.py	(experimenting)  | 
 | --single-flit |	GarnetNetwork.py |	Enable Single-flit transmitting	 |
 |  | 	Network.py |	(As multi-flits transmitting is not working yet)  |
-| --routing algorithm |	GarnetNetwork.py | 	Set the value to 2 to enable the custom routing algorithm that follows timePoints.json	Use with --central  
-            Network.py  
+| --routing algorithm |	GarnetNetwork.py | 	Set the value to 2 to enable the custom routing algorithm that follows timePoints.json	Use with --central in Network.py  
         example: ./build/Garnet_standalone/gem5.debug configs/example/garnet_synth_traffic.py --network=garnet2.0 --num-cpus=64 --num-dirs=64 --topology=Mesh_XY --mesh-rows=8 --sim-cycles=1000000 --single-flit --synthetic=taskgraph --smart --smart_hpcmax=4 --filename=./autocor_Mesh8x8_AIR1_XY.json  
 ### 4. For ArSMART NoC:  
 please read this paper:  https://ieeexplore.ieee.org/abstract/document/9464312  
