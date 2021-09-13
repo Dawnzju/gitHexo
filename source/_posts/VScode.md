@@ -38,3 +38,9 @@ Shift+Alt+F formatting
 提示：如果上传配置成功，将会有消息显示在输出选项卡中。
 
 按照如上步骤在新环境中配置Settings Sync扩展，然后按下Shift + Alt + D下载配置。
+
+## MikTex latex
+修改 “更新-> 检索源” 为随机宏
+
+## Sumatra PDF
+修改vscode setting.json file 
